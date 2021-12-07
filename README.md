@@ -2,3 +2,5 @@
 
 Contents
 ----------------------------------
+Plot types
+  Histogram
